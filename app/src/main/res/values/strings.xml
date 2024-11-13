@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DBDApp</string>
+
+    <string name="author_name">Wito Irawan</string>
+    <string name="author_email">Email: witoirawan7@gmail.com</string>
+    <string name="author_university">Asal Universitas: Universitas Terbuka</string>
+    <string name="author_major">Jurusan: Manajemen</string>
+</resources>
